@@ -109,9 +109,6 @@ Generated business-focused conclusions and career recommendations based on findi
 ## Top Skills
 ![Top Skills](Charts/top_skills.png)
 
-## Top Locations
-![Top Locations](Charts/top_locations.png)
-
 ## Remote Work Distribution
 ![Remote Work](Charts/remote_work.png)
 
